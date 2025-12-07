@@ -22,3 +22,9 @@ Application web pour la gestion des compétences en entreprise, développée ave
 ```bash
 git clone https://github.com/votre-username/findin-mvp.git
 cd findin-mvp
+
+MVC (Model-View-Controller)
+├── Models/      ← Logique métier et données
+├── Views/       ← Templates HTML
+├── Controllers/ ← Contrôleurs d'actions
+└── Assets/      ← CSS, JS, Images
